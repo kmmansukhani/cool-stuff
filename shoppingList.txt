@@ -6,3 +6,8 @@ bananas
 Cherries
 Carrots
 Cereal
+sup 
+dawg 
+let x = 94
+let u = sin(z)
+d/dx[e^x]
